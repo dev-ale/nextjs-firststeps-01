@@ -1,3 +1,5 @@
 # nextjs-firststeps-01
 
-## First Project of the Udemy Series of Maximilian Schwarmueller
+## 1. Project of the Udemy Series of Maximilian Schwarmueller
+https://www.udemy.com/course/nextjs-react-the-complete-guide
+
